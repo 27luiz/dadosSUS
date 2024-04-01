@@ -1,5 +1,5 @@
-# dadosSUS
-coleta de dados no Tabwin.
+# DadosSUS
+Coleta de dados no Tabwin.
 
 Objetivo: Maper os hospital que atendem SUS no Brasil.
 Foram mapeados todos os municipios do Brasil.
@@ -7,6 +7,8 @@ Utilizando a bibliblioteca DbcReader e dbfread para ler os devidos arquivos.
 Utilizado o Notebook Google Colab para execuar o codigo.
 Utilizado o BIgquery para consolidar os dados em um BIgtable.
 O bigquery foi escolhido levando em cinsoderação o custo, conecção nativa com ferramentas de BI como o PowerBI.
+
+Para Auxiliar na analise tambem foi utilizado dados do IBGE para mapear os Municipios.
 
 Proximos Passos Interesantes Utilizar o Vertex AI do GCP
 
