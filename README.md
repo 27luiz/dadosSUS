@@ -12,5 +12,6 @@ Para Auxiliar na analise tambem foi utilizado dados do IBGE para mapear os Munic
 
 Proximos Passos Interesantes Utilizar o Vertex AI do GCP
 
-![image](https://github.com/27luiz/dadosSUS/assets/33574634/396f3370-d762-45b6-b787-8b19b2ec76d8)
+Fluxo de coleta de Dados: ![image](https://github.com/27luiz/dadosSUS/assets/33574634/396f3370-d762-45b6-b787-8b19b2ec76d8)
 
+BI Inicial: ![image](https://github.com/27luiz/dadosSUS/assets/33574634/abed3730-7e9d-41e1-b14f-a5654a1dfdc5)
